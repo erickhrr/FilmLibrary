@@ -139,8 +139,3 @@ class MainWindow(QMainWindow):
     def show_message(self, message):
         # Отображение сообщения в заглушке
         self.main_label.setText(message)
-
-
-'''
-Добавить 3 рандомных фильма: Постер и снизу название
-'''
